@@ -1,7 +1,7 @@
-Tools yang kita pakai yaitu salah satu jenis dari Version Control System (VCS) yaitu Git.
+> Tools yang kita pakai yaitu salah satu jenis dari Version Control System (VCS) yaitu Git.
 **GIT** adalah salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-sama.
 
-ADAPUN TAHAP TAHAP PROSES GIT
+> ADAPUN TAHAP TAHAP PROSES GIT
     - Git init
     - Git add README.md
     - Git commit -m “first commit”
@@ -9,10 +9,10 @@ ADAPUN TAHAP TAHAP PROSES GIT
     - git remote add origin http://theresia-rumapea    
     - git push -u origin main
 
-BRANCHES
-Dibagi menjadi 2
-    - Master : Berisi folder yang memang di tahap production
-    - Development : Branch utama dalam pengembangan
+> BRANCHES
+    Dibagi menjadi 2
+        - Master : Berisi folder yang memang di tahap production
+        - Development : Branch utama dalam pengembangan
         
 Dalam development terdiri dari beberapa branch yang masing-masing memiliki fungsi khusus, misalnya
 - Feature A
