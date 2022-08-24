@@ -2,12 +2,12 @@
 **GIT** adalah salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-sama.
 
 > ADAPUN TAHAP TAHAP PROSES GIT
-    > 1. Git init
-    > 2. Git add README.md
-    > 3. Git commit -m “first commit”
-    > 4. Git branch -M main
-    > 5. git remote add origin http://theresia-rumapea    
-    > 6. git push -u origin main
+    > 1 Git init
+    > 2 Git add README.md
+    > 3 Git commit -m “first commit”
+    > 4 Git branch -M main
+    > 5 git remote add origin http://theresia-rumapea    
+    > 6 git push -u origin main
 
 > BRANCHES
 Dibagi menjadi 2
