@@ -2,17 +2,17 @@
 **GIT** adalah salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-sama.
 
 > ADAPUN TAHAP TAHAP PROSES GIT
-1. Git init
-2. Git add README.md
-3. Git commit -m “first commit”
-4. Git branch -M main
-5. git remote add origin http://theresia-rumapea    
-6. git push -u origin main
+    1. Git init
+    2. Git add README.md
+    3. Git commit -m “first commit”
+    4. Git branch -M main
+    5. git remote add origin http://theresia-rumapea    
+    6. git push -u origin main
 
 > BRANCHES
-    Dibagi menjadi 2
-        - Master : Berisi folder yang memang di tahap production
-        - Development : Branch utama dalam pengembangan
+Dibagi menjadi 2
+    1. Master : Berisi folder yang memang di tahap production
+    2. Development : Branch utama dalam pengembangan
     
     Dalam development terdiri dari beberapa branch yang masing-masing memiliki fungsi khusus, misalnya
     - Feature A
