@@ -13,6 +13,7 @@ Software Tester do :
 Skills required to become a Software Tester
 
 **1.	Non – Technical Skills**
+    
     a.	Analytical Skill 
     Will help break up complex software system into smaller units to gain a better understanding and create test cases 
 
@@ -31,6 +32,7 @@ Skills required to become a Software Tester
     A software tester must have a passion for his/her field. BUT how do you determine whether you have a passion for software testing if you have never tested before ? Simple TRY it out and if software testing does not excite you switch to something else that hold your interest.
 
 **2.	Technical Skills**
+    
     a.	Basic knowledge of Unix / Linux commands 
 
     b.	Test Management Tool, yaitu mengelola artefak terkait pengujian Anda. Misalnya - alat seperti Testlink dapat digunakan untuk melacak semua kasus uji2 yang ditulis oleh tim Anda.
