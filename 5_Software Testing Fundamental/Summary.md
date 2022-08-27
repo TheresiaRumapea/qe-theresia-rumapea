@@ -2,14 +2,14 @@
 
     A process of analyzing a software item to detect the differences between existing and required conditions (i.e., defects) and to evaluate the features of the software item.
 
-    Ada 4 hal yang membuat Software Testing penting
+##### Ada 4 hal yang membuat Software Testing penting
     1.	Save Money
     2.	Product Quality (Menjamin kualitas produk)
     3.	Security (Keamanan Terjaga)
     4.	Customer Satisfaction (Kepuasaan Pelanggan)
     Software bugs could be expensive or even dangerous. Software bugs can potentially cause monetary and human loss.
 
-    Testing Platform 
+##### Testing Platform 
     1.	API 
     2.	Web
     3.	Mobile
@@ -18,9 +18,9 @@
 
 ## B.	Types of Software Testing
 
-#### a.	Functional Testing
+### a.	Functional Testing
     Jenis pengujian yang memverifikasi bahwa setiap fungsi sudah berfungsi sesuai dengan requirement spesification.
-### -	Manual Testing 
+##### -	Manual Testing 
         i.	Dalam proses ini, penguji perangkat lunak mengeksekusi test case dan menghasilkan laporan pengujian
         ii.	Ini adalah metode klasik dari semua jenis pengujian dan membantu menemukan bug dalam sistem perangkat lunak.
         iii.	Merupakan langkah untuk mencari cacat/bug pada program perangkat lunak. Dalam metode ini tester memiliki peran penting dan berperan sebagai pengguna akhir untuk pengecekan semua fitur aplikasi tanpa bantuan tools/ script.
@@ -29,12 +29,12 @@
         ii.	Penguji menggunakan alat otomatisasi yang sesuai untuk mengembangkan skrip pengujian dan memvalidasi perangkat lunak
         iii.	Tujuannya adalah untuk menyelesaikan eksekusi tes dalam waktu yang lebih singkat
         iv.	Sebuah metode pengujian software yang menggunakan suatu software testing denga tujuan membandingkan output yang diprediksikan dan dihasilkan oleh sistem.
-### -	Etc
 
-#### b.	Non-Functional Testing
+
+### b.	Non-Functional Testing
         Non-Functional Testing diadakan setelah Functional Testing selesai dilakukan.
     
-### Performance Testing
+##### - Performance Testing
         Artinya Pengujian performa didefinisikan sebagai jenis pengujian perangkat lunak untuk memastikan aplikasi perangkat lunak akan berkinerja baik di bawah beban kerja yang diharapkan.
 
         Berikut beberapa konsep yang dihadapkan pada performance testing
@@ -47,7 +47,7 @@
         •	Penguji menggunakan alat otomatisasi yang sesuai untuk mengembangkan skrip pengujian dan memvalidasi perangkat lunak
         •	Tujuannya adalah untuk menyelesaikan eksekusi tes dalam waktu yang lebih singkat
 
-#### c.	Maintenance Testing
+### c.	Maintenance Testing
         Maintenance Testing dilakukan ketika aplikasi sudah rilis ke konsumen. Tujuan: mempertahankan dan meningkatkan karakteristik kualitas non-fungsional dari komponen/ sistem selama masa pakainya. Terutama efisiensi kerja, kompetebilitas, keandalan, keamanan dan portabilitas
         Regression Testing
 
