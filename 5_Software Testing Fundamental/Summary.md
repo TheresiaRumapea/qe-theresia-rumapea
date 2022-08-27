@@ -23,11 +23,11 @@
 ##### -	Manual Testing 
         i.	Dalam proses ini, penguji perangkat lunak mengeksekusi test case dan menghasilkan laporan pengujian
         ii.	Ini adalah metode klasik dari semua jenis pengujian dan membantu menemukan bug dalam sistem perangkat lunak.
-        iii.	Merupakan langkah untuk mencari cacat/bug pada program perangkat lunak. Dalam metode ini tester memiliki peran penting dan berperan sebagai pengguna akhir untuk pengecekan semua fitur aplikasi tanpa bantuan tools/ script.
-        -	Automation Testing 
+        iii. Merupakan langkah untuk mencari cacat/bug pada program perangkat lunak. Dalam metode ini tester memiliki peran penting dan berperan sebagai pengguna akhir untuk pengecekan semua fitur aplikasi tanpa bantuan tools/ script.
+##### -	Automation Testing 
         i.	Penguji menulis kode / skrip uji untuk mengotomatisasi eksekusi pengujian
         ii.	Penguji menggunakan alat otomatisasi yang sesuai untuk mengembangkan skrip pengujian dan memvalidasi perangkat lunak
-        iii.	Tujuannya adalah untuk menyelesaikan eksekusi tes dalam waktu yang lebih singkat
+        iii. Tujuannya adalah untuk menyelesaikan eksekusi tes dalam waktu yang lebih singkat
         iv.	Sebuah metode pengujian software yang menggunakan suatu software testing denga tujuan membandingkan output yang diprediksikan dan dihasilkan oleh sistem.
 
 
@@ -48,7 +48,9 @@
         •	Tujuannya adalah untuk menyelesaikan eksekusi tes dalam waktu yang lebih singkat
 
 ### c.	Maintenance Testing
-        Maintenance Testing dilakukan ketika aplikasi sudah rilis ke konsumen. Tujuan: mempertahankan dan meningkatkan karakteristik kualitas non-fungsional dari komponen/ sistem selama masa pakainya. Terutama efisiensi kerja, kompetebilitas, keandalan, keamanan dan portabilitas
+        Maintenance Testing dilakukan ketika aplikasi sudah rilis ke konsumen. 
+        
+        Tujuan: mempertahankan dan meningkatkan karakteristik kualitas non-fungsional dari komponen/ sistem selama masa pakainya. Terutama efisiensi kerja, kompetebilitas, keandalan, keamanan dan portabilitas
         Regression Testing
 
         Jenis pengujian regresi pengujian perangkat lunak untuk mengonfirmasi bahwa fitur baru atau perubahan kode tidak berdampak buruk pada fitur yang ada.
