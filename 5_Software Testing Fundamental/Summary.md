@@ -1,4 +1,4 @@
-## A.	Software Testing
+## BAGIAN 1 - Software Testing
 
     A process of analyzing a software item to detect the differences between existing and required conditions (i.e., defects) and to evaluate the features of the software item.
 
@@ -16,7 +16,7 @@
     4.	Desktop
 
 
-## B.	Types of Software Testing
+## BAGIAN 2 - Types of Software Testing
 
 ### a.	Functional Testing
     Jenis pengujian yang memverifikasi bahwa setiap fungsi sudah berfungsi sesuai dengan requirement spesification.
@@ -25,7 +25,7 @@
         i.	Dalam proses ini, penguji perangkat lunak mengeksekusi test case dan menghasilkan laporan pengujian
         ii.	Ini adalah metode klasik dari semua jenis pengujian dan membantu menemukan bug dalam sistem perangkat lunak.
         iii. Merupakan langkah untuk mencari cacat/bug pada program perangkat lunak. Dalam metode ini tester memiliki peran penting dan berperan sebagai pengguna akhir untuk pengecekan semua fitur aplikasi tanpa bantuan tools/ script.
-        
+
 ##### -	Automation Testing 
         i.	Penguji menulis kode / skrip uji untuk mengotomatisasi eksekusi pengujian
         ii.	Penguji menggunakan alat otomatisasi yang sesuai untuk mengembangkan skrip pengujian dan memvalidasi perangkat lunak
@@ -58,7 +58,7 @@
         Jenis pengujian regresi pengujian perangkat lunak untuk mengonfirmasi bahwa fitur baru atau perubahan kode tidak berdampak buruk pada fitur yang ada.
 
 
-## C.	Level Of Testing
+## BAGIAN 3 - Level Of Testing
 
 ### I.	Unit Testing
     -	Unit Testing adalah tingkat pengujian perangkat lunak di mana unit/ komponen individual dari suatu perangkat lunak diuji.
