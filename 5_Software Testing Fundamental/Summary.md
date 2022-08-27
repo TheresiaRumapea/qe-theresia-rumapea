@@ -20,10 +20,12 @@
 
 ### a.	Functional Testing
     Jenis pengujian yang memverifikasi bahwa setiap fungsi sudah berfungsi sesuai dengan requirement spesification.
+
 ##### -	Manual Testing 
         i.	Dalam proses ini, penguji perangkat lunak mengeksekusi test case dan menghasilkan laporan pengujian
         ii.	Ini adalah metode klasik dari semua jenis pengujian dan membantu menemukan bug dalam sistem perangkat lunak.
         iii. Merupakan langkah untuk mencari cacat/bug pada program perangkat lunak. Dalam metode ini tester memiliki peran penting dan berperan sebagai pengguna akhir untuk pengecekan semua fitur aplikasi tanpa bantuan tools/ script.
+        
 ##### -	Automation Testing 
         i.	Penguji menulis kode / skrip uji untuk mengotomatisasi eksekusi pengujian
         ii.	Penguji menggunakan alat otomatisasi yang sesuai untuk mengembangkan skrip pengujian dan memvalidasi perangkat lunak
