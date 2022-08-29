@@ -1,6 +1,6 @@
 ## Soal Praktikum
 
-<img src="/asset/soalpraktikum.jpg" alt="soal prak sec 05" title="Soal Prak Section 05">
+<img src="asset/soalpraktikum.jpg" alt="soal prak sec 05" title="Soal Prak Section 05">
 
 ## Jawaban Praktikum
 
