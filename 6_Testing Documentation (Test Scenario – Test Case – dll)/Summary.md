@@ -4,49 +4,49 @@ o	memenuhi ketentuan yang diinginkan oleh user
 o	memenuhi standard tertentu
 o	berfungsi dengan baik
 
-    ### Tujuan pembuatan tes scenario yaitu 
+#### Tujuan pembuatan tes scenario yaitu 
     o	Memudahkan developer dan tester untuk melakukan testing
     o	Menjadi dasar pengembangan project
     o	Sebagai dasar client atau product owner menyesuai kan dengan sistem requirement
 
-### Bagaimana membuat test scenario yang baik, berikut kriteria nya
+#### Bagaimana membuat test scenario yang baik, berikut kriteria nya
 
-#### 1.	Inline with system requirement
+###### 1.	Inline with system requirement
 Sistem Requirement itu adalah kunci, sehingga kita dapat menyusun test scenario sesuai flow yang telah ditentukan.
 
-#### 2.	Give Context
+###### 2.	Give Context
 User bersikap seolah-olah perlu melakukan hal tersebut.
 
-#### 3.	Give Detail
+###### 3.	Give Detail
 Berikan rincian secara spesifik hal-hal yang perlu diketahui oleh user
 
-#### 4.	Crystal clear - Easy to Understand
+###### 4.	Crystal clear - Easy to Understand
 Berikan penjelasan secara detail terkait tes step dan spesifikasi expected result. Sehingga akan memudahkan kita dalam melakukan proses testing.
 
-#### 5.	Complete
+###### 5.	Complete
 User dapat melakukan apapun dengan sistem requirement yang diberikan
 
-#### 6.	Coheren
+###### 6.	Coheren
 Antara scenario satu dengan yang lain dan antara step yang satu dengan yang lain harus saling berkesinambungan
 
-#### 7.	Proofs
+###### 7.	Proofs
 Lengkapi dengan hasil yang didapatkan dari scenario yang telah dilakukan, seperti resultnya pass or fail.
 
-#### 8.	Consistent
+###### 8.	Consistent
 Penggunaan kata haruslah konsisten, jika ingin menggunakan kata failed email maka pada kata test step selanjutnya harus sesuai dengan kata yang ditulis diawal.
 
-#### 9.	End-user mind - Don’t assume
+###### 9.	End-user mind - Don’t assume
 Contohnya: dalam pembuatan aplikasi kita harus memastikan client menginginkan notifikasi berupa pop-up message atau alert message.
 
-	Source dari Internet 
+>>> Source dari Internet 
 
-	End-user mind
-Tester bermindset bahwa ia adalah end-user. Untuk itu, kemudahan dalam penggunaan aplikasi juga perlu diperhatikan karena kepuasan konsumen adalah saat aplikasi tidak memiliki kegagalan sistem yang bisa menghambat berjalannya sistem tersebut.
+###### End-user mind
+        Tester bermindset bahwa ia adalah end-user. Untuk itu, kemudahan dalam penggunaan aplikasi juga perlu diperhatikan karena kepuasan konsumen adalah saat aplikasi tidak memiliki kegagalan sistem yang bisa menghambat berjalannya sistem tersebut.
 
-	Don’t assume
-Tester diharapkan tidak berasumsi bahwa end-user mengerti keseluruhan dari aplikasi. Jadi usahakan susun test case walaupun hal yang termudah.
+######	Don’t assume
+        Tester diharapkan tidak berasumsi bahwa end-user mengerti keseluruhan dari aplikasi. Jadi usahakan susun test case walaupun hal yang termudah.
 
-#### 10.	Update
+###### 10.	Update
 Catat pembaharuannya dan perbaharui proses pembaharuannya.
 
 ## BAGIAN 2 – TEST CASE
