@@ -1,6 +1,6 @@
 ## Soal Praktikum
 
-<img src="asset/soalpraktikum.jpg" alt="soal prak sec 06" title="Soal Prak Section 06">
+<img src="asset/soalpraktikum.png" alt="soal prak sec 06" title="Soal Prak Section 06">
 
 1. Buatlah Test Case sebanyak mungkin pada feature login
 
