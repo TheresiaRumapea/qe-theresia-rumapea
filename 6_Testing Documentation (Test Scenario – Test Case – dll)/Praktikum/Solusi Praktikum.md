@@ -4,11 +4,7 @@
 
 1. Buatlah Test Case sebanyak mungkin pada feature login
 
-2. Pilih Produk sampai pilih metode pembayaran dari 
-
-https://www.sepulsa.com/
-
-dengan menggunakan format laporan yang sudah ditentukan ! 
+2. Pilih Produk sampai pilih metode pembayaran dari https://www.sepulsa.com/ dengan menggunakan format laporan yang sudah ditentukan ! 
     
 3. Letakkan kumpulan Test Case tersebut dalam file excel !
 
