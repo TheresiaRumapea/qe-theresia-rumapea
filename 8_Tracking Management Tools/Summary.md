@@ -109,5 +109,7 @@ Epic merupakan jenis issue untuk mengelompokkan task.
     
 ###### 6. Apa yang harus dilakukan saat menggunakan tools jira, jika kita menemukan bugs pada fitur yang sudah dilakukan testing? 
 Jawab:
+
     a. Membuat issue bertipe bugs saat ditemukan ada yang tidak sesuai dengan criteria testing
+
     b. Memindahkan fitur yang berkaitan dengan bugs ke kolom “IN PROGRESS”
