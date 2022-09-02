@@ -80,7 +80,7 @@ Menentukan sprint berdasarkan dari ruang waktu pengerjaan sebuah task atau issue
 
 # BAGIAN 3 _ FASE PADA JIRA
 
-<img src="asset/fasejira.png" alt="fase pada jira" title="fase pada jira">
+<img src="Praktikum/asset/fasejira.png" alt="fase pada jira" title="fase pada jira">
 
 # BAGIAN 4 _ TASK TEORI 
 
@@ -105,6 +105,7 @@ Panel ini berisi story yang **telah selesai dikerjakan** oleh developer, namun *
         
 ###### 5. Apa yang dimaksud dengan “EPIC” pada JIRA ?
 Jawab:
+
 Epic merupakan jenis issue untuk mengelompokkan task.
     
 ###### 6. Apa yang harus dilakukan saat menggunakan tools jira, jika kita menemukan bugs pada fitur yang sudah dilakukan testing? 
