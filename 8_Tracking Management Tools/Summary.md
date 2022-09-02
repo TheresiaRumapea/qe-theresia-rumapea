@@ -21,15 +21,24 @@ Jira adalah alat bantu yang bertujuan untuk pelacakan bugs, pelacak issue dan ma
             Panel ini berisi **story yang sedang dikerjakan** oleh **Software Engineer.** 
             
         3. **FINISH**
-        Panel ini berisi story yang **telah selesai dikerjakan** oleh developer, namun **belum siap untuk tahap testing.**
+        
+            Panel ini berisi story yang **telah selesai dikerjakan** oleh developer, namun **belum siap untuk tahap testing.**
+
         4. **DELIVER**
-        Panel ini berisi story yang **siap memasuki tahap testing** oleh **quality engineer.**
+            
+            Panel ini berisi story yang **siap memasuki tahap testing** oleh **quality engineer.**
+
         5. **TESTING**
-        Panel ini berisi **story yang sedang diuji/testing** oleh **quality engineer.**
+            
+            Panel ini berisi **story yang sedang diuji/testing** oleh **quality engineer.**
+
         6. **NEED FIX**
-        Panel ini berisi **hasil proses testin**g yang **tidak lolos kriteria** oleh tim development.
+            
+            Panel ini berisi **hasil proses testin**g yang **tidak lolos kriteria** oleh tim development.
+        
         7. **DONE**
-        Panel ini berisi story yang **sudah lolos** dari **kriteria testing** oleh tim development. 
+            
+            Panel ini berisi story yang **sudah lolos** dari **kriteria testing** oleh tim development. 
 
 
 
@@ -38,21 +47,21 @@ Jira adalah alat bantu yang bertujuan untuk pelacakan bugs, pelacak issue dan ma
 #### 1. Project
 
 #### 2. Issues Type
-###### a. Story 
-    Story merupakan jenis issue yang biasa digunakan untuk membuat fitur baru.        
-###### b. Task
-    Task merupakan jenis issue yang biasa digunakan untuk melakukan perincian tugas-tugas yang akan dikerjakan.
-###### c. Bug
-    Bug merupakan jenis issue yang biasa digunakan jika terjadi penemuan bug saat proses testing oleh software tester.
-###### d. Epic
-    Epic merupakan jenis issue untuk mengelompokkan task.
+        a. Story 
+            Story merupakan jenis issue yang biasa digunakan untuk membuat fitur baru.        
+        b. Task
+            Task merupakan jenis issue yang biasa digunakan untuk melakukan perincian tugas-tugas yang akan dikerjakan.
+        c. Bug
+            Bug merupakan jenis issue yang biasa digunakan jika terjadi penemuan bug saat proses testing oleh software tester.
+        d. Epic
+            Epic merupakan jenis issue untuk mengelompokkan task.
             
 #### 3. Reporter
 Tentukan reporter berdasarkan yang membuat tugas tersebut
         
 #### 4. Description
 Menuliskan description dengan jelas menggunakan format yang sama dengan dituliskan pada PIVOTAL TRACKER.
-###### Kondisi Description
+Kondisi Description
 - Acceptance Criteria 
     Jika fitur yang dibuat sudah sesuai dengan acceptance criteria yang ditentukan oleh development team. 
 - Test Implementation
@@ -94,11 +103,11 @@ Panel ini berisi story yang **siap memasuki tahap testing** oleh **quality engin
 - Finish
 Panel ini berisi story yang **telah selesai dikerjakan** oleh developer, namun **belum siap untuk tahap testing.**
         
-5. Apa yang dimaksud dengan “EPIC” pada JIRA ?
+###### 5. Apa yang dimaksud dengan “EPIC” pada JIRA ?
 Jawab:
 Epic merupakan jenis issue untuk mengelompokkan task.
     
-6. Apa yang harus dilakukan saat menggunakan tools jira, jika kita menemukan bugs pada fitur yang sudah dilakukan testing? 
+###### 6. Apa yang harus dilakukan saat menggunakan tools jira, jika kita menemukan bugs pada fitur yang sudah dilakukan testing? 
 Jawab:
     a. Membuat issue bertipe bugs saat ditemukan ada yang tidak sesuai dengan criteria testing
     b. Memindahkan fitur yang berkaitan dengan bugs ke kolom “IN PROGRESS”
