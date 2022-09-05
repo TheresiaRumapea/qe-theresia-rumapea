@@ -4,7 +4,7 @@ Pembahasan:
 
 >	Agile testing merupakan salah satu metode pengembangan perangkat lunak yang banyak digunakan oleh perusahaan besar maupun perusahaan startup. Metode ini memerlukan proses pengerjaan yang iterativ atau berulang yang dimana kesepakatan dalam hal perubahan yang terjadi adalah kesepakatan secara tim/bersama. Metode ini membutuhkan adaptasi yang cepat untuk setiap perubahan yang terjadi, sehingga dibutuhkan sebuah tim yang dapat mengambil keputusann yang cepat dam tepat, dapat menafsirkan serta menciptakan kualitas yang terbaik dari softwareyang dibangun. Sehingga satu-satunya tantangan dalam proses pengembangan perangkat lunak dengan metode agile testing adalah "KERJASAMA ANTAR TIM", dimana apabila kolaborasi yang baik dan tepat dapat terbangun maka produk yang dibangun pun akan menghasilkan hasil yang cepat dan terbaik.
 
-#### Menurut teman-teman apa tantangan ketika menerapkan agile testing ? Berikan penjelasan pada masing-masing lima point dalam testing manifesto. 
+### 2. Menurut teman-teman apa tantangan ketika menerapkan agile testing ? Berikan penjelasan pada masing-masing lima point dalam testing manifesto. 
 Pembahasan: 
 Terdapat lima point dalam testing manifesto, antara lain:
 1.	Testing throughout over testing at the end. 
