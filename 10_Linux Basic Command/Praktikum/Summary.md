@@ -1,7 +1,8 @@
 # SUMMARY SECTION 10
 # Linux Basic Command
 
-## Bagian 1 _ Pengertian Linux Basic Command
+
+# Bagian 1 _ Pengertian Linux Basic Command
 
 Linux command merupakan sebuah utilitas sistem operasi linux, semua tugas dasar dan tugas lanjutan dapat dijalankan dengan commans. Commands dapat dijalankan di terminal linux. 
 
@@ -23,7 +24,9 @@ command [options] [parameters]
 > ls -a -l
 > ls -al
 
-## Bagian 2 _ Jenis Commands Linux
+
+
+# Bagian 2 _ Jenis Commands Linux
 
 ### A. Basic Commands
 1. **cal** : fungsi menampilkan kalender 
@@ -121,7 +124,9 @@ Arti : menentukan LINUXUSER2 yang akan menjadi pemiliki dari file.txt
 
 3. **etc**
 
-## Bagian 3 _ SHELL SCRIPT
+
+
+# Bagian 3 _ SHELL SCRIPT
 ###### Pengertian Shell Script
 *Shell Script* adalah sebuah bahasa pemograman yang disusun berdasarkan command-command shell. Dan merupakan program sebagai jembatan antara user dan kernel.
 ###### Keuntungan menggunakan Shell Script :
