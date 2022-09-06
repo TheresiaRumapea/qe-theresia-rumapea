@@ -32,22 +32,31 @@ command [options] [parameters]
 
 ### B. File System Commands
 1. **touch** : membuat file baru yang kosong melalui baris perintah linux.
+
 Contoh: **touch / home / username /web.html**
+
 Arti : membuat file html berjudul web dibawah directory dokumen
     
 2. **cat** : membuat daftar konten atau isi file pada standard output.
+
 Contoh: **cat nama_file.txt**
     
 3. **cp** : menyalin file dari directory saat ini ke directory yang berbeda
+
 Pola: **cp / namafile / directory tujuan** 
+
 Contoh: **cp / sinery.jpg /home / username / pitcure** 
+
 Arti: menyalin sinery.jpg ke directory ini ke directory pitcure
 
 4. **mv** : memindahkan file meskipun sebenarnya bisa digunakan untuk mengganti / mengubah nama file
+
 a. memindahkan file
+
 **mv / nama.txt /home / username / document**
         
 b. mengganti nama file
+
 **mv / nama.txt  nama_baru.txt**
 
 5. **rm** : menghapus directory beserta isinya. Namun harus berhati-hati saat kita berada di directory  yang ingin dihapus, karena nantinya jika sudah dihapus tidak dapat dikembalikan.
@@ -55,17 +64,23 @@ b. mengganti nama file
 6. **mkdir** : membuat directory baru.
     
 **mkdir music** 
+
 Arti: maka directory baru yang muncul ialah music. 
     
 7. **rmdir** : menghapus directory. Namun hanya boleh digunakan untuk menghapus directory yang KOSONG saja.
 
 8. **cd** : menjelajahi file dan directory linux. Memerlukan path penuh nama directory tergantung nama directory saat ini kita berada.
+
 Contoh:    
+
 Saat ini berada pada directory:  **/home/username/documents**
+
 Ingin membuka : **photos** di directory **documents**
+
 Cara : **cd photos**
 
 9. **pwd** : mencari path dari directory yang kita gunakan saat ini. Command ini akan mengembalikan path yang absolut yang pada dasarnya merupakan path semua directory yang diawali dengan garis miring.
+
 Contoh: **/home / username /**
 
 ### C. Processes Control Commands
@@ -88,7 +103,9 @@ Melakukan pengawasan terhadap penggunaan resources sistem sangatlah disarankan t
 3. **SUDO (Super User Do)** : menjalankan task yang memerlukan hak akses/ permission/administratif. Namun tidak disarankan untuk tes harian, karena dapat terjadi error kapan saja apabila kita melakukan kesalahan.
 
 4. **Find** : untuk mencari file & directory. Command ini lebih ditujukan pada file yang berlokasi di dalam directory yang diberikan.
+
 Contoh : **find / home -name notes.txt** 
+
 Arti: ingin mencari file bernama “notes.txt” didalam directory home dan sub directory nya.  
 
 5. **etc**
@@ -97,7 +114,9 @@ Arti: ingin mencari file bernama “notes.txt” didalam directory home dan sub 
 1. **chmod** : membaca , menulis, dan manjalankan permission dari file dan directory.
 
 2. **chown** : mengubah/ mentransfer kepemilikan file ke user yang spesifik. Karena kita tahu bahwa semua file dimiliki oleh user khusus.
+
 Contoh: **chown linuxuser2 file.txt**
+
 Arti : menentukan LINUXUSER2 yang akan menjadi pemiliki dari file.txt  
 
 3. **etc**
