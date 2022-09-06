@@ -11,7 +11,9 @@ Tahapan SDLC yang terakhir adalah proses maintenance atau pemeliharaan software.
 Biasanya beberapa aktivitas maintenance yang dilakukan adalah:
 
 Perbaikan bug: perbaikan bug ketika ada masalah yang dilaporkan
+
 Upgrade sistem : meningkatkan kinerja software dengan sistem yang lebih baru
+
 Peningkatan fitur: menambahkan fitur atau fungsionalitas pada pada software yang dikembangkan
 
 
