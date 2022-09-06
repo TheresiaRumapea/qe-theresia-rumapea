@@ -2,6 +2,8 @@
 Pembahasan: 
 > 	QE Berperan mulai pada fase testing hingga Maintenance. 
 
+<img src="asset/sdlc.png" alt="soal prak sec 09" title="Jawaban Prak Section 09">
+
 ###### Fase Testing
 Tahapan testing pada SDLC ini akan melibatkan para software Quality Assurance (QA) untuk melakukan pengujian pada sistem dan menilai apakah software dapat bekerja sesuai dengan fungsionalitas yang diharapkan. Tim QA akan menguji semua area software untuk memastikan bahwa sistem terbebas dari cacat, error, ataupun bug. Jika ternyata masalah ditemukan di dalam software yang dikembangkan, maka tim QA akan menginformasikannya dengan tim pengembang agar perbaikan dapat segera dilakukan.  Proses ini berlanjut hingga software benar-benar terbebas dari bug, bekerja stabil, dan berfungsi sesuai harapan
 
