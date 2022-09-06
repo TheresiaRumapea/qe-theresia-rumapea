@@ -1,11 +1,25 @@
 ### 1. Fase apa saja QE berperan pada proses SDLC ? Sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut !
 Pembahasan: 
-> 	QE Berperan mulai pada fase testing hingga Maintenance. Mengapa? Karena pada tahap maintenance, sebelum aplikasi resmi dipublish ke pengguna/customer maka QE berperan penting untuk melakukan pengujian agar menghindari bug yang mungkin muncul saat user menggunakan aplikasi tersebut. Karena definisi utama pembuatan sebuah produk adalah untuk memudahkan semua usernya dalam melakukan semua proses bisnis yang terdapat didalamnya sehingga dibutuhkan effort untuk pengujian agar user menerima aplikasi tersebut dengan meminimalisir bug yang mungkin saja ditemui oleh user. Setelah aplikasi dipublish pun, aplikasi masih butuh pengawasan/maintenance terhadap bug-bug yang mungkin masih ditemukan oleh user ketika aplikasi sudah rilis.
+> 	QE Berperan mulai pada fase testing hingga Maintenance. 
 
->	Agile testing merupakan salah satu metode pengembangan perangkat lunak yang banyak digunakan oleh perusahaan besar maupun perusahaan startup. Metode ini memerlukan proses pengerjaan yang iterativ atau berulang yang dimana kesepakatan dalam hal perubahan yang terjadi adalah kesepakatan secara tim/bersama. Metode ini membutuhkan adaptasi yang cepat untuk setiap perubahan yang terjadi, sehingga dibutuhkan sebuah tim yang dapat mengambil keputusann yang cepat dam tepat, dapat menafsirkan serta menciptakan kualitas yang terbaik dari softwareyang dibangun. Sehingga satu-satunya tantangan dalam proses pengembangan perangkat lunak dengan metode agile testing adalah "KERJASAMA ANTAR TIM", dimana apabila kolaborasi yang baik dan tepat dapat terbangun maka produk yang dibangun pun akan menghasilkan hasil yang cepat dan terbaik.
+###### Fase Testing
+Tahapan testing pada SDLC ini akan melibatkan para software Quality Assurance (QA) untuk melakukan pengujian pada sistem dan menilai apakah software dapat bekerja sesuai dengan fungsionalitas yang diharapkan. Tim QA akan menguji semua area software untuk memastikan bahwa sistem terbebas dari cacat, error, ataupun bug. Jika ternyata masalah ditemukan di dalam software yang dikembangkan, maka tim QA akan menginformasikannya dengan tim pengembang agar perbaikan dapat segera dilakukan.  Proses ini berlanjut hingga software benar-benar terbebas dari bug, bekerja stabil, dan berfungsi sesuai harapan
+
+###### Fase Maintenance
+Tahapan SDLC yang terakhir adalah proses maintenance atau pemeliharaan software. Di tahap ini, tim akan melakukan pemeliharaan sistem dan rutin melakukan pembaruan agar kinerja software tetap dapat optimal.
+
+Biasanya beberapa aktivitas maintenance yang dilakukan adalah:
+
+Perbaikan bug: perbaikan bug ketika ada masalah yang dilaporkan
+Upgrade sistem : meningkatkan kinerja software dengan sistem yang lebih baru
+Peningkatan fitur: menambahkan fitur atau fungsionalitas pada pada software yang dikembangkan
+
 
 ### 2. Menurut teman-teman apa tantangan ketika menerapkan agile testing ? Berikan penjelasan pada masing-masing lima point dalam testing manifesto. 
 Pembahasan: 
+
+>	Agile testing merupakan salah satu metode pengembangan perangkat lunak yang banyak digunakan oleh perusahaan besar maupun perusahaan startup. Metode ini memerlukan proses pengerjaan yang iterativ atau berulang yang dimana kesepakatan dalam hal perubahan yang terjadi adalah kesepakatan secara tim/bersama. Metode ini membutuhkan adaptasi yang cepat untuk setiap perubahan yang terjadi, sehingga dibutuhkan sebuah tim yang dapat mengambil keputusann yang cepat dam tepat, dapat menafsirkan serta menciptakan kualitas yang terbaik dari softwareyang dibangun. Sehingga satu-satunya tantangan dalam proses pengembangan perangkat lunak dengan metode agile testing adalah "KERJASAMA ANTAR TIM", dimana apabila kolaborasi yang baik dan tepat dapat terbangun maka produk yang dibangun pun akan menghasilkan hasil yang cepat dan terbaik.
+
 Terdapat lima point dalam testing manifesto, antara lain:
 1.	Testing throughout over testing at the end. 
 Dalam menguji sebuah fitur,biasanya testing akan dilakukan secara keseluruhan di akhir proses development,sehingga sering membuat tester kewalahan dengan mengerjakan test case yang belum selesai dia kerjakan. Oleh karena itu,pada manifesto ini testing akan dilakukan bersamaaan dengan proses development, sehingga dapat dilakukan secara berkala dan lebih cepat pengerjaannya dibandingkan pengerjaan secara keseluruhan.
