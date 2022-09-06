@@ -33,6 +33,7 @@ command [options] [parameters]
 2. **date** : menampilkan  tanggal dan waktu yang tertera di OS kita. 
 3. **etc**
 
+
 ### B. File System Commands
 1. **touch** : membuat file baru yang kosong melalui baris perintah linux.
 
@@ -86,6 +87,7 @@ Cara : **cd photos**
 
 Contoh: **/home / username /**
 
+
 ### C. Processes Control Commands
 1. **Top** : menampilkan daftar proses yang berlangsung dan seberapa banyak ruang CPU yang digunakan tiap proses tersebut.
     
@@ -97,6 +99,7 @@ Melakukan pengawasan terhadap penggunaan resources sistem sangatlah disarankan t
 3. **History** : Mengecek kembali command yang sudah ditambahkan sebelumnya.
 
 4. **etc**
+
 
 ### D. Utilities Programs Commands
 1. **ls** : menampilkan semua file yang ada di directory kerja kita.
@@ -112,6 +115,7 @@ Contoh : **find / home -name notes.txt**
 Arti: ingin mencari file bernama “notes.txt” didalam directory home dan sub directory nya.  
 
 5. **etc**
+
 
 ### E. File Access Permissions
 1. **chmod** : membaca , menulis, dan manjalankan permission dari file dan directory.
