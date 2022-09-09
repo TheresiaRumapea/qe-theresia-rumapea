@@ -263,6 +263,7 @@ Percabangan menggunakan:
 
     - Jika salah, maka lakukan (else)
 
+
     import java.util.Scanner;
     public class Branching {
         public static void main(String[] args) {
@@ -284,9 +285,6 @@ Percabangan menggunakan:
 4. Case
 
     Percabangan Switch Case adalah bentuk lain dari if else if, perbedaannya adalah percabangan ini menggunakan kata kunci switch dan case. Formatnya berbeda namun cara kerjanya tetap sama.
-
-    Contoh program switch variable:
-    //Brancing.java
 
     import java.util.Scanner;
     public class Branching {
