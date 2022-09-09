@@ -216,6 +216,20 @@ Beberapa operator dalam java :
         }
 
 ## Bagian 3d _Looping
+Looping merupakan perintah yang diingin jika ingin komputer melakukan perintah yang berulang-ulang.
+Looping dalam pemrograman dibagi menjadi 2 yaitu:
+
+#### 1. Count Loop
+Yaitu perulangan yang jumlah perulangannya itu pasti (tentu) atau dapat dihitung.
+- for 
+
+- for each
+
+#### 2.  Uncount Loop 
+Yaitu perulangan yang jumlah perulangannya itu belum pasti (tak tentu) atau belum dapat dihitung.
+
+- While
+- Do While
 
 
 ## Bagian 3e _Branching 
