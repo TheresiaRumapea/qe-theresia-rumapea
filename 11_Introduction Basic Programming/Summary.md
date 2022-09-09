@@ -245,7 +245,6 @@ Percabangan menggunakan:
         public static void main(String[] args) {
             int belanja = 0;
             Scanner scanner = new Scanner(System.in);
-
             System.out.println("Total Belanja : ");
             belanja = scanner.nextInt();
 
@@ -269,7 +268,6 @@ Percabangan menggunakan:
         public static void main(String[] args) {
             int nilai = 0;
             Scanner scanner = new Scanner(System.in);
-
             System.out.println("Masukkan nilai : ");
             niali = scanner.nextInt();
 
@@ -291,13 +289,10 @@ Percabangan menggunakan:
     //Brancing.java
 
     import java.util.Scanner;
-
     public class Branching {
         Public static void main(String[] args) {
             String lampu;
-
             Scanner scanner = new Scanner(System.In);
-
             System.out.println(“input warna lampu : “);
             lampu = scanner.nextLine();
 
