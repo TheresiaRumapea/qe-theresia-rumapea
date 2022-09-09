@@ -155,6 +155,164 @@ Beberapa operator dalam java :
 
 ## Bagian 3c _ Input Output
 
+<img src="asset/inputoutput.png" alt="sec 11" title="Sum Section 11">
+
+**Input** adalah nilai yang kita masuk kan ke program 
+
+**Proses** adalah step by step yang dilakukan untuk mengelola input menjadi output
+
+**Ouput** adalah hasil dari pengelolahan dari input.
+
+##### 3 Class Untuk Mengambil Inputnya yaitu:
+###### 1. Class scanner
+    
+        Scanner adalah class yang menyediakan fungsi-fungsi untuk mengambil input dari keyboard agar kita bisa melakukan scanner kita perlu mengimport nya ke dalam kode nya dan ada library khusus untuk scanner.
+        
+        Untuk menggunakan Scanner, kita perlu : 
+        
+        - membuat objek dari class Scanner, class tersebut berada didalam package *java.util.** 
+
+        - jadi kita perlu menginport packagenya terlebih dahulu,
+
+        - setelah package dan objek selesai dibuat
+
+        - selanjutnya kita membutuhkan sebuah variabel untuk menampung nilai yang di inputkan dari user.
+
+###### 2. Class BufferedReader
+    
+        Pada bagian ini, kita akan menggunakan class BufferedReader, class tersebut berada di dalam package *java.io*, class ini digunakan untuk mendapatkan input dari user, hampir sama seperti Scanner, yang membedakan hanya cara penulisan syntaxnya saja.
+
+###### 3. Class JOption
+
+        Cara terakhir untuk mendapatkan input dari user adalah dengan menggunakan class JOptionPane calss tersebut terdapat pada package javax.swing. Berbeda dari class sebelunya, JOptionPane memiliki tampilan visual atau GUI untuk memudahkan pengguna, tampilan tersebut berupa dialog box standard yang memfasilitasi kepada user untuk mengkonfirmasi sesuatu.
+
+        Contoh Code InputOutput.java
+
+        import java.util.Scanner;
+
+        public class InputOutput {
+            public static void main (String[] args){
+                String nama, alamat;
+                int usia, gaji;
+
+                Scanner keyboard = new Scanner(System.in);
+
+                System.out.println("### Data Karyawan Alterra");
+                System.out.println("Nama : ");
+                nama =keyboard.nextLine();
+                System.out.println("Alamat : ");
+                alamat = keyboard.nextLine();
+                System.out.println ("Usia : "); 
+                usia = keyboard.nextInt();
+                System.out.println("Gaji : " );
+                gaji = keyboard.nextInt();
+                
+                System.out.println("======================");
+                System.out.println("Nama karyawan : " + nama);
+                System.out.println("Alamat karyawan : " + alamat);
+                System.out.println("Gaji : " + gaji);
+            }
+                
+        }
 
 ## Bagian 3d _Looping
+
+
 ## Bagian 3e _Branching 
+Alur pengeksekusian sebuah kode program alurnya dikerjakan satu per satu dari atas sampai ke bawah baris demi baris dibaca, maka komputer akan membaca satu persatu alurnya.
+
+Alur program :
+
+Branching adalah sebuah istilah yang digunakan untuk menyebut alur program yang bercabang.
+
+Percabangan juga dikenal dengan :
+1. Control Flow
+2. Structure Condition 
+3. Structure IF
+4. Decision
+
+Percabangan menggunakan:
+
+1. If 
+    - Hanya memilih 1 pilihan
+
+    - IF akan dikerjakan/ dilakukan apabila hanya kondisinya benar saja
+
+    - Jika salah, akan berlanjut ke eksekusi berikutnya
+
+    import java.util.Scanner;
+    public class Branching {
+        public static void main(String[] args) {
+            int belanja = 0;
+            Scanner scanner = new Scanner(System.in);
+
+            System.out.println("Total Belanja : ");
+            belanja = scanner.nextInt();
+
+            if(belanja > 100000){
+                System.out.println("Selamat anda berhak mendapatkan hadiah");
+            }
+            System.out.println("Terimakasih telah berbelanja");
+        }
+        
+    }
+
+2. Else 
+    - Memiliki pilihan alternatif apabila kondisinya salah
+
+    - Jika benar, maka lakukan perintah ini (IF)
+
+    - Jika salah, maka lakukan (else)
+
+    import java.util.Scanner;
+    public class Branching {
+        public static void main(String[] args) {
+            int nilai = 0;
+            Scanner scanner = new Scanner(System.in);
+
+            System.out.println("Masukkan nilai : ");
+            niali = scanner.nextInt();
+
+            if(belanja >= 70){
+                System.out.println("Selamat anda lulus");
+            }
+                    else {
+                    System.out.println("Maaf anda tidak lulus");
+                    }
+        }
+    }
+
+3. Switch 
+4. Case
+
+    Percabangan Switch Case adalah bentuk lain dari if else if, perbedaannya adalah percabangan ini menggunakan kata kunci switch dan case. Formatnya berbeda namun cara kerjanya tetap sama.
+
+    Contoh program switch variable:
+    //Brancing.java
+
+    import java.util.Scanner;
+
+    public class Branching {
+        Public static void main(String[] args) {
+            String lampu;
+
+            Scanner scanner = new Scanner(System.In);
+
+            System.out.println(“input warna lampu : “);
+            lampu = scanner.nextLine();
+
+            switch (lampu) {
+                case “merah”:
+                    System.out.println(“ini merupakan lampu merah”);
+                    break;
+                case “kuning”:
+                    System.out.println(“ini sedang lampu kuning”);
+                    break;
+                case “hijau”:
+                    System.out.println(“lampu hijauuuu”);
+                    break;
+                default:
+                    System.out.println(“lampu yang dimasukkan salah”);
+            }
+        }
+    }
