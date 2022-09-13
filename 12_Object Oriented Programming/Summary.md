@@ -40,7 +40,6 @@ Atribut (attribute) adalah variabel pada kelas yang menyatakan properti atau kar
 ###### 5. Inheritance
 Inheritance dalam konsep OOP adalah kemampuan untuk membentuk class baru yang memiliki fungsi turunan atau mirip dengan fungsi yang ada sebelumnya. Kelas dapat menggunakan kembali kode dari kelas lain. Hubungan dan subkelas antar objek dapat ditetapkan, memungkinkan pengembang menggunakan kembali logika umum sambil tetap mempertahankan hierarki unik. Properti OOP ini memaksa analisis data yang lebih menyeluruh, mengurangi waktu pengembangan, dan memastikan tingkat akurasi yang lebih tinggi.
 
-Contoh :
 <img src="asset/Inheritance.png" alt="inheritance" title="inheritance">
 
 ###### 6. Encapsulation
