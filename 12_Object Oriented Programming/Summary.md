@@ -35,8 +35,13 @@ Atribut (attribute) adalah variabel pada kelas yang menyatakan properti atau kar
     2. Instantiation : memerlukan sebuah perintah new untuk menciptakan obyek
     3. Initialization : inisialisasi dari sebuah obyek setelah perintah new
 
+<img src="asset/Object.png" alt="object" title="object">
+
 ###### 5. Inheritance
 Inheritance dalam konsep OOP adalah kemampuan untuk membentuk class baru yang memiliki fungsi turunan atau mirip dengan fungsi yang ada sebelumnya. Kelas dapat menggunakan kembali kode dari kelas lain. Hubungan dan subkelas antar objek dapat ditetapkan, memungkinkan pengembang menggunakan kembali logika umum sambil tetap mempertahankan hierarki unik. Properti OOP ini memaksa analisis data yang lebih menyeluruh, mengurangi waktu pengembangan, dan memastikan tingkat akurasi yang lebih tinggi.
+
+Contoh :
+<img src="asset/Inheritance.png" alt="inheritance" title="inheritance">
 
 ###### 6. Encapsulation
 Prinsip ini menyatakan bahwa semua informasi penting terkandung di dalam suatu objek dan hanya informasi tertentu yang terpapar. Implementasi dan status setiap objek disimpan secara pribadi di dalam kelas yang ditentukan. Objek lain tidak memiliki akses ke kelas ini atau otoritas untuk membuat perubahan. Mereka hanya dapat memanggil daftar fungsi atau metode publik. Karakteristik penyembunyian data ini memberikan keamanan program yang lebih besar dan menghindari kerusakan data yang tidak diinginkan.
@@ -52,19 +57,15 @@ Abstraction berarti menyembunyikan detail latar belakang dan hanya mewakili info
 
 # Bagian 3 _ Access Modifier :
 ###### 1. Public (Class, Package, Subclass, Global)
-    
-    Public : Access modifier public bisa kita sebut sebagai modifier global. Artinya bisa diakses dari manapun bahkan package yang berbeda.
+Public : Access modifier public bisa kita sebut sebagai modifier global. Artinya bisa diakses dari manapun bahkan package yang berbeda.
     
 ###### 2. Default (Class, Package)
-    
-    Default : Default modifier berarti penulisan kodenya tanpa atribut modifier. Ini berlaku untuk semua kelas, member, atau fungsi yang kita tuliskan tanpa access modifier. Modifier default bisa diakses selama masih dalam satu package.
+Default : Default modifier berarti penulisan kodenya tanpa atribut modifier. Ini berlaku untuk semua kelas, member, atau fungsi yang kita tuliskan tanpa access modifier. Modifier default bisa diakses selama masih dalam satu package.
     
 ###### 3. Private (Class)
-    
-    Private : Access modifier private akan membatasi akses hanya di dalam class. Private biasanya digunakan sebagai modifier dari member dan metode suatu class.
+Private : Access modifier private akan membatasi akses hanya di dalam class. Private biasanya digunakan sebagai modifier dari member dan metode suatu class.
     
 ###### 4. Protected (Class, Package, Subclass)
-    
-    Protected : Access modifier protected bisa diakses selama masih dalam satu package. Protected memiliki sedikit perbedaan dengan default modifier. Perbedaannya adalah protected bisa diakses dari luar package. Akan tetapi, satu-satunya cara untuk akses dari luar package adalah kelas yang hendak mengakses, merupakan kelas turunannya.
+Protected : Access modifier protected bisa diakses selama masih dalam satu package. Protected memiliki sedikit perbedaan dengan default modifier. Perbedaannya adalah protected bisa diakses dari luar package. Akan tetapi, satu-satunya cara untuk akses dari luar package adalah kelas yang hendak mengakses, merupakan kelas turunannya.
 
 <img src="asset/AccessModifier.png" alt="AccessModifier" title="AccessModifier">
