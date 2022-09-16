@@ -1,7 +1,7 @@
 # SUMMARY SECTION 15
 # Pengenalan Restful API
 
-## Bagian 1 _ Pengenalan RESTful API
+## Bagian 1 _ Pengertian RESTful API
 API adalah singkatan untuk "Application Programming Interface". API memungkinkan komunikasi dan pertukaran. sedangkan REST merupakan singkatan dari ("Representational State Transfer").
 
 HTTP Response Code :
