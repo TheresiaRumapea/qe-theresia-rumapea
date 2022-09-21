@@ -2,10 +2,10 @@ package Kuis_Hewan;
 
 public class Harimau extends Hewan {
 
-    @Override
-    public void makan(String nama){
-        System.out.println(nama + " sedang makan.");
-    }
+//    @Override
+//    public void makan(String nama){
+//        System.out.println(nama + " sedang makan.");
+//    }
     @Override
     public void caraBerkembangBiak(){
         System.out.println("Berkembang biak dengan cara melahirkan");
@@ -15,8 +15,8 @@ public class Harimau extends Hewan {
         System.out.println("Bergerak dengan " + jumlahKaki + " kaki");
     }
     //New Method
-    public void kecepatan(){
-        System.out.println("Memiliki kecepatan 96 km/jam");
+    public void kecepatan(int kecepatan){
+        System.out.println("Memiliki kecepatan " + kecepatan + " km/jam");
     }
 
 }

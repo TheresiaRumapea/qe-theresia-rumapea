@@ -2,7 +2,7 @@ package Kuis_Hewan;
 
 public class Hewan {
     public int jumlahKaki;
-    private String nama;
+    protected String nama;
 
     public void makan(String nama){
         System.out.println(nama + " sedang makan.");

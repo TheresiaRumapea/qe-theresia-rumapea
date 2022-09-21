@@ -8,7 +8,7 @@ public class Main {
         harimau.makan("Harimau");
         harimau.caraBerkembangBiak();
         harimau.bergerak(4);
-        harimau.kecepatan();
+        harimau.kecepatan(96);
         System.out.println("=======================================");
 
         //Create objek ayam
