@@ -37,9 +37,11 @@ Merupakan standard arsitektur komunikasi berbasis web yg sering digunakan dalam 
 
 
 ###### 2. URL (Base URL + Path)
+    URL adalah bagaimana Anda mengidentifikasi hal-hal yang ingin Anda operasikan. Kita katakan bahwa setiap URL mengidentifikasi sumber daya. Ini adalah URL yang sama persis yang ditugaskan untuk halaman web.
 ###### 3. Header 
 ###### 4. Body
-    Berisi parameter yang dikirim ke server. Menentukan parameter yang di save, update atau hapus. 
+    Berisi parameter yang dikirim ke server. Menentukan parameter yang di save, update atau hapus.
+    Data (terkadang disebut “body” atau “message”) berisi informasi yang ingin Anda kirimkan ke server. Opsi ini hanya digunakan dengan Request POST, PUT, PATCH atau DELETE. 
 
 ###### 5. HTTP Response Code
     1. 200 => berarti permintaan telah berhasil (POST & PUT)
