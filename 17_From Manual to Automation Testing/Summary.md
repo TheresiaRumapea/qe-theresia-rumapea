@@ -1,4 +1,4 @@
-# SUMMARY SECTION 16
+# SUMMARY SECTION 17
 # Pengenalan Restful API
 
 ## Bagian 1 _ Manual Testing
@@ -70,7 +70,7 @@
     
     Automation testing adalah cara yang terbaik untuk meningkatkan efektivitas cakupan pengujian  dan kecepatan eksekusi dalam pengujian perangkat lunak. 
     
-    > Software automation testing penting karena beberapa alasan berikut ini :
+    Software automation testing penting karena beberapa alasan berikut ini :
         1. Manual testing yang dilakukan dari semua alur kerja, bidang , semua scenario negatif akan memakan waktu dan uang.
         2. Sulit menguji situs, multi bahasa secara manual.
         3. Automation test  dalam perangkat lunak akan memerlukan campur tangan manusia. Kita dapat menjalankan automation test tanpa pengawasan .
