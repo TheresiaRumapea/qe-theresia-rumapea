@@ -3,7 +3,7 @@
 
 ## Bagian 1 _ Manual Testing
 
-#### Pengertian Manual Testing
+### Pengertian Manual Testing
     - Manual testing adalah langkah mencari cacat (Bug) pada program perangkat luna.
     - Pada metode ini tester atau penguji berperan penting sebagai pengguna akhir untuk pengecekan semua fitur aplikasi bekerja dengan benar.
     - Penguji melakukan mengecekan secara manual, tanpa mengunakan tools atau script bertujuan untuk memastikan jika aplikasi yang di uji bebas cacat dan aplikasi perangkat lunak dapat bekerja sesuai dengan yang di harapkan.
@@ -14,7 +14,7 @@
         - Manual Tester dapat mengetahui kontras nya antar button dan background yang lebih terang sehingga user kesulit membedakan mencari “button” dan memahami tindakan yang di ambil.
         - User interface(UI) Feedback adalah hal yang digunakan automation testing.
 
-#### Kelebihan Saat Melakukan Manual Testing
+### Kelebihan Saat Melakukan Manual Testing
     1. Mendapatkan Visual Feedback
         
         tools dan skrip tidak mendapatkan opini maupun input mengenai tampilan UI 
@@ -27,7 +27,7 @@
         
         Bisa mendapatkan feedback secara dari orang secara langsung sehingga mengtahui suka dan tidak suka, dimana automation tools memberikan feedback tersebut.
         
-#### Kekurangan Saat Melakukan Manual Testing
+### Kekurangan Saat Melakukan Manual Testing
 1. Kurang teliti dari automation testing, tekadang terdapat human error. 
 
     Ketidak telitian sehingga jika menggunakan automation testing akan mengurangi bug yang terlewat.
@@ -38,13 +38,13 @@
 
 ## Bagian 2 _ Automation Testing
 
-#### Pengertian Automation Testing
+### Pengertian Automation Testing
     - Merupakan testing yang membutuhkan automation tools untuk menjalankan test case.
     - Untuk melakukan proses automation testing, Quality Assurance perlu untuk membuat code atau script testing.
     - Script tersebut akan digunakan dalam bantuan automation testing tools yang telah ditulis dengan benar kemudian di jalankan dengan automation testing akan melakukan validasi sacara otomatis pada software yang di testing.
     - Automation testing bergantung pada script test secara otomatis berfungsi untuk membandingakan hasil yang diharapkan dengan hasil yang sebenarnya. Quality Assurance juga akan melihat apakah software sudah berjalan sesuai ekspetasi atau tidak.
 
-#### Kelebihan Saat mengunakan Automation Testing
+### Kelebihan Saat mengunakan Automation Testing
 1. Dapat menemukan lebih banyak dari pada manual tester.
 
 2. Kecepatan dan efesiensi
@@ -55,7 +55,7 @@
     
     Jika mendapatkan selalu mendapatkan update perubahan masing-masing unit atau fitur maka tidak perlu menulis skrip setiap saat dan dapat digunakan kembali Regression Testing.
 
-#### Kekurangan Saat mengunakan Automation Testing
+### Kekurangan Saat mengunakan Automation Testing
     1. Biaya nya lebih mahal, karena mengunakan Automation tools namun mengurangi waktu serta usabilitas
 
     2. Kurangnnya human elemen 
@@ -66,7 +66,7 @@
         
         Tanpa adanya human elemen maka tidak bisa melakukan pengecekan seperti warna kontraks, pemilihan font dan button size.
 
-#### Kenapa Mengunakan Automation Testing
+### Kenapa Mengunakan Automation Testing
     
     Automation testing adalah cara yang terbaik untuk meningkatkan efektivitas cakupan pengujian  dan kecepatan eksekusi dalam pengujian perangkat lunak. 
     
@@ -77,7 +77,7 @@
         4. Automation test meningkatkan kecepatan dari eksekusi test
         5. Test automation membantu meningkatkan code dari test itu sendiri.
 
-#### Ada beberapa test case yang dapat kita automation
+### Ada beberapa test case yang dapat kita automation
     1. Test case tersebut di executed berulangkali.
         
         Ketika melakukan nya seacra manual itu akan membuang waktu kita sebaik nya itu kita automate.
@@ -86,11 +86,11 @@
 
     3. Test case yang membutuhkan waktu lama saat melakukan test manual.
 
-#### Test case yang tidak bisa di automate
+### Test case yang tidak bisa di automate
     1. Test case yang dirancang dan tidak di executed sama sekali  
     2. serta test case yang memiliki request sering berubah-ubah
 
-#### Proses Automation Testing
+### Proses Automation Testing
     1. Test tools selection
         
         Pemilihan tools sangat bergantung teknologi yang digunakan untuk membangun aplikasi sedang di uji
@@ -124,7 +124,7 @@
         
         Test automation maintenance adalah face dimana automation test dilakukan untuk menguji apakah fungsionalitas baru pada perangkat lunak atau software berfungsi dengan baik atau tidak . Automation test mantenance dilakukan setelah skrip automation baru ditambahkan dan perlu direview untuk meningkatkan efeksivitas skrip automation setiap siklus rilis yang berurutan 
         
-#### Automation Best Practices
+### Automation Best Practices
 
 1. **Scope automation perlu dijelaskan secara rinci** sebelum dimulai nya projek, ini menetapkan ekspektive automation dengan benar 
 2. **Memilih automation tools yang tepat** 
