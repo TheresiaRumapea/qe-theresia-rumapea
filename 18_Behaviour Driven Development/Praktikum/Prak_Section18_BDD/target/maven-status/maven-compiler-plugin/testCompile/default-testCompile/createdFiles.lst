@@ -1,0 +1,5 @@
+cucumberTestSuite.class
+starter\account\loginStep.class
+starter\people\networkStep.class
+starter\people\searchStep.class
+starter\job\jobStep.class

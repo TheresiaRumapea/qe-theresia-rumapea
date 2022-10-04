@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"My network","see account profile that just connected with me","SUCCESS","2022-10-04T17:08:51.0724729+07:00[Asia/Jakarta]","0.0","0.02"
+"My network","see account that i ignored","SUCCESS","2022-10-04T17:08:51.1023889+07:00[Asia/Jakarta]","0.0","0.02"
+"Search","Success Search a profile","SUCCESS","2022-10-04T17:08:51.1372952+07:00[Asia/Jakarta]","0.0","0.01"
+"Search","Success clear history","SUCCESS","2022-10-04T17:08:51.1612311+07:00[Asia/Jakarta]","0.0","0.02"
+"Search","Success display list of username that contains to our search","SUCCESS","2022-10-04T17:08:51.1901539+07:00[Asia/Jakarta]","0.0","0.02"

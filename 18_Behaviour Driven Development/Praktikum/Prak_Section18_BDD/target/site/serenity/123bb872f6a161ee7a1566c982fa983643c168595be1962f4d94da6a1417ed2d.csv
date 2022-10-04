@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Success login","SUCCESS","2022-10-04T17:08:50.4381575+07:00[Asia/Jakarta]","0.0","0.35"
+"Login","Failed Login with null username and valid password","SUCCESS","2022-10-04T17:08:50.8169909+07:00[Asia/Jakarta]","0.0","0.02"
+"Login","Failed Login with valid username and null password","SUCCESS","2022-10-04T17:08:50.8518556+07:00[Asia/Jakarta]","0.0","0.02"
+"Login","Failed Login with valid username and invalid password","SUCCESS","2022-10-04T17:08:50.8797826+07:00[Asia/Jakarta]","0.0","0.02"
+"Login","Failed Login with invalid username and valid password","SUCCESS","2022-10-04T17:08:50.9089061+07:00[Asia/Jakarta]","0.0","0.01"
+"Login","Failed Login with invalid username and invalid password","SUCCESS","2022-10-04T17:08:50.9328406+07:00[Asia/Jakarta]","0.0","0.02"
