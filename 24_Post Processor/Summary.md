@@ -13,23 +13,23 @@ Bagian dari test plan yang merupakan sebuah aksi yang berjalan ketika proses set
     - Di **JSON Extractor** terdapat **Json Path digunakan untuk ekstrak isi dari json response dari** nilai yang terdapat dari data JSON yang dihasilkan dari respons saat kita melakukan request.
     
 Berikut susunan kode program yang dihasilkan dari prak di video
-<img src="asset/01.png">
+<img src="asset/00.png">
 
 ### Tujuan POST PROCESSOR
     
 Untuk mengolah data yang ada di dalam RESPONSE DATA menggunakan **JSON Extractor.**
-<img src="asset/02.png">
+<img src="asset/01.png">
 
 ### CONTOH 01 MENERAPKAN POST PROCESSOR
 Tahap mengolah data yang ada di dalam RESPONSE DATA menggunakan **JSON Extractor:**
 1. Buat Terlebih dahulu request GET pada salah satu request di [Reqres] reqres.in
 
-<img src="asset/03.png">
+<img src="asset/02.png">
 
 2. Buat JSON Extractor untuk request tersebut dengan cara 
 Klik kanan pada “HTTP Request” > ADD > Post Processor > JSON Extractor
 
-<img src="asset/04.png">
+<img src="asset/03.png">
 
 3. Buat DEBUG SAMPLER PADA “Http Group” dengan cara
 Klik kanan “Thread Group” > ADD > Sampler > Debug Sampler
@@ -37,14 +37,14 @@ Klik kanan “Thread Group” > ADD > Sampler > Debug Sampler
 4. Run kembali dan lihat hasilnya pada DEBUG SAMPLER
 NB : terlihat bahwa hasil di DEBUG SAMPLER sesuai dengan isi JSON Extractor yaitu **$.data[0].id (perintah : tampilkan data pertama)** yaitu dengan id=7 jika dilihat dari Hasil HTTP Request
 
-<img src="asset/05.png">
+<img src="asset/04.png">
 
-<img src="asset/06.png">
+<img src="asset/05.png">
 
 ### CONTOH 02 MENERAPKAN POST PROCESSOR
 (semua data ID)
 
-<img src="asset/07.png">
+<img src="asset/06.png">
 
 JSON Path Expression : $.data..id
 
@@ -54,7 +54,7 @@ Default Values : NOT_FOUND
 
 Maka resultnya : semua data ID akan ditampilkan di DEBUG SAMPLER
 
-<img src="asset/08.png">
+<img src="asset/07.png">
 
 ### CONTOH 03 MENERAPKAN POST PROCESSOR
 (semua data ID + EMAIL)
@@ -66,11 +66,11 @@ Default Values : NOT_FOUND; NOT_FOUND
 
 Maka resultnya : semua data ID dan EMAIL akan ditampilkan di DEBUG SAMPLER
 
-<img src="asset/09.png">
+<img src="asset/08.png">
 
 Hasil di DEBUG SAMPLER: 
 
-<img src="asset/10.png">
+<img src="asset/09.png">
 
 ### JSON Path
 1. Digunakan Untuk extract isi dari JSON Response
