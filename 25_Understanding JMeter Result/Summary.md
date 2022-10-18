@@ -1,13 +1,7 @@
 # SUMMARY SECTION 25
 # Understanding JMeter Result 
 
-### Step Open JMeter
-    1. Open terminal
-    2. Navigate to the bin folder
-    3. Run JMeter
-
-<img src="asset/01.png">
-
+#### -----------------------------------------------------------------
 ### Step Open JMeter
 1. HTTP Request Defaults : https://reqres.in/
 2. Get List Users : /api/user/3 
