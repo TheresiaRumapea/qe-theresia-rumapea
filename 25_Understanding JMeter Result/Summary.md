@@ -1,7 +1,7 @@
 # SUMMARY SECTION 25
 # Understanding JMeter Result 
 
-#### =============================================================================================================
+#### ===========================================================================================
 ### Step Open JMeter
 1. HTTP Request Defaults : https://reqres.in/
 2. Get List Users : /api/user/3 
@@ -32,6 +32,7 @@
 <img src="asset/04.png">
 <img src="asset/05.png">
 
+#### ===========================================================================================
 ### Quick Analyze
 Unsur-unsur pada Quick Analyze
 1. Case
@@ -40,6 +41,7 @@ Unsur-unsur pada Quick Analyze
 4. Conclude
 <img src="asset/06.png">
 
+#### ===========================================================================================
 ### Usage in e-commerce 
 1. Know current normal load / capacity
 
@@ -57,6 +59,7 @@ b. Quick special event
 - Apa alur transaksinya ?
 - Apa kendala yang seeing muncul saat performance test ?
 
+#### ===========================================================================================
 ### Buat Request Baru di Video
 Tahap:    
 1. Buat request dengan method POST
@@ -109,7 +112,7 @@ Dapat dilihat bahwa response : 201 Created
     *Klik kanan pada “Thread Group” → ADD → Listener → Aggregate Report*
 <img src="asset/13.png">
 
-
+#### ===========================================================================================
 ### Overview of a Perfomance Test Report
 1. Pembahasan Data yang sudah Dimiliki
     a. Summary tentang sistem
