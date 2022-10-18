@@ -1,7 +1,7 @@
 # SUMMARY SECTION 25
 # Understanding JMeter Result 
 
-#### -----------------------------------------------------------------
+#### =============================================================================================================
 ### Step Open JMeter
 1. HTTP Request Defaults : https://reqres.in/
 2. Get List Users : /api/user/3 
