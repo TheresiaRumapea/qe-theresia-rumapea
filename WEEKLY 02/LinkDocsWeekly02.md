@@ -4,7 +4,7 @@ Kelas	: QE - A
 
 Topik	: Weekly 02
 
-Pengujian Sebuah Aplikasi RESTful API 
+Pengujian Sebuah Aplikasi RESTful API menggunakan Katalon
 
 URL : https://fakestoreapi.com/docs
 
