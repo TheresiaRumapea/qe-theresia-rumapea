@@ -5,6 +5,8 @@ Kelas	: QE -A
 Topik	: REMEDIAL - Pengujian Multiplatform
 
 
+Soal : Lakukan pengujian terhadap sebuah website menggunakan methode BDD CUCUMBER dengan tools pilihan (Theresia Rumapea : Tools Cypress)
+
 Berikut Link Laporan Screenshot Code dan Hasil: 
 
 https://docs.google.com/document/d/1JBCXmFxOeYLP6n9bVqTrbugCvzBzZnXSVI3zwH1lkIw/edit?usp=sharing
