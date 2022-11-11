@@ -24,4 +24,3 @@ https://github.com/TheresiaRumapea/TheresiaRumapea_MiniProject_API.git
 
 
 # Git Repository Mobile
-https://github.com/TheresiaRumapea/TheresiaRumapea_MiniProject_Mobile.git
