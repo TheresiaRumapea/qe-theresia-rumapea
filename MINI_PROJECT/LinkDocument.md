@@ -13,3 +13,15 @@ https://docs.google.com/document/d/1DkiZe5LfZXStIjY3jB1kavngnLQJI9Fx/edit?usp=sh
 
 # Link Slide Presentase 
 https://www.canva.com/design/DAFPwRYXUbw/jJfFG3U1xBnR3rklzWdoMQ/edit
+
+
+# Git Repository WEB UI
+https://github.com/TheresiaRumapea/TheresiaRumapea_MiniProject_WebUI.git
+
+
+# Git Repository API
+https://github.com/TheresiaRumapea/TheresiaRumapea_MiniProject_API.git
+
+
+# Git Repository Mobile
+https://github.com/TheresiaRumapea/TheresiaRumapea_MiniProject_Mobile.git
