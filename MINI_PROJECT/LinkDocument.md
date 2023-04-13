@@ -22,5 +22,3 @@ https://github.com/TheresiaRumapea/TheresiaRumapea_MiniProject_WebUI.git
 # Git Repository API
 https://github.com/TheresiaRumapea/TheresiaRumapea_MiniProject_API.git
 
-
-# Git Repository Mobile
